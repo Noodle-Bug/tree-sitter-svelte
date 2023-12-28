@@ -1,7 +1,6 @@
 {
   "watch": [
     "grammar.js",
-    "src/scanner.cc",
     "src/scanner.c",
     "src/*.h",
     "src/utils/*.h",
